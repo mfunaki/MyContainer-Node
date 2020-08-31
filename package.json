@@ -1,0 +1,19 @@
+{
+  "name": "mycontainer-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfunaki/MyContainer-Node.git"
+  },
+  "author": "Masahiko Funaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfunaki/MyContainer-Node/issues"
+  },
+  "homepage": "https://github.com/mfunaki/MyContainer-Node#readme"
+}
